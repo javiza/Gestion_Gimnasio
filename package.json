@@ -1,0 +1,15 @@
+{
+  "name": "apoyo-lectura---gimnasio-heart-strong",
+  "version": "1.0.0",
+  "description": "app manipulacion motor base de datos sql usando gestor de paquetes npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jonathan bustos ramos",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.16",
+    "pg": "^8.7.3"
+  }
+}
